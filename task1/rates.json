@@ -1,0 +1,24 @@
+{
+    "rates": [
+        {
+            "asset_id_quote": "BTC",
+            "rate": 50000
+        },
+        {
+            "asset_id_quote": "ETH",
+            "rate": 4000
+        },
+        {
+            "asset_id_quote": "EOS",
+            "rate": 5
+        },
+        {
+            "asset_id_quote": "LTC",
+            "rate": 200
+        },
+        {
+            "asset_id_quote": "ETC",
+            "rate": 50
+        }
+    ]
+}
